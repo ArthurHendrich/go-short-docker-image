@@ -1,1 +1,1 @@
-docker pull h3ndr1xa/hello-fullcycle:latest
+docker pull h3ndr1xa/fullcycle:latest
